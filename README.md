@@ -10,5 +10,6 @@ This app demonstrates the :has_many => :through relationship.
 
 
 ======
-License 
-[MIT License] (http://rsedighi.mit-license.org/)
+
+##License
+http://rsedighi.mit-license.org
